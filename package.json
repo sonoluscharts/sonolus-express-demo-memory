@@ -1,10 +1,11 @@
 {
 "name": "Sonolus Charts",
 "version": "1.0.0",
-"description": "website: sonoluscharts.rf.gd",
+"description": "sonoluscharts.rf.gd",
 "main": "server.js",
 "scripts": {
-"start": "node server.js"
+"start": "node server.js",
+"build": "echo 'No build step required'"
 },
 "dependencies": {
 "express": "^4.18.2"
